@@ -1,0 +1,19 @@
+{
+  "name": "noah",
+  "version": "1.0.0",
+  "description": "A simple, single-page web application for a personalized learning center.",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "keywords": [
+    "education",
+    "gamification",
+    "sustainability"
+  ],
+  "author": "Jules",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
